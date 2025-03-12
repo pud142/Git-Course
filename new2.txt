@@ -1,6 +1,6 @@
-a
+12345
 
 test new branch
 
-new text
+new text 1
 simple-changes
