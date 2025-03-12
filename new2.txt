@@ -4,3 +4,5 @@ test new branch
 
 new text 1
 simple-changes
+
+add text 1
