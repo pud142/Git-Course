@@ -1,6 +1,8 @@
-a
+abc
 
 test new branch
 
 new text
 simple-changes
+
+add text 1
