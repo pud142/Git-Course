@@ -1,3 +1,6 @@
 a
 
 test new branch
+
+new text
+simple-changes
